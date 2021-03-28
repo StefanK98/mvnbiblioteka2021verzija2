@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"rs.ac.bg.fon.nprog.mvnbiblioteka2021.biblioteka.interfejs","c":"BibliotekaInterfaceTest","l":"BibliotekaInterfaceTest()","u":"%3Cinit%3E()"}];updateSearchResults();
